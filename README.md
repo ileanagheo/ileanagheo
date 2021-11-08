@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ileanagheo
 - 👀 I’m interested in programming and digital art.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning C and Java language.
 - 💞️ I’m looking to collaborate on art projects.
 - 📫 You can reach me at linkedin.com/in/ileana-teodora-gheorghişor-22a291224
 
