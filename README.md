@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ileanagheo
+- 👋 Hi, I’m Ileana!
 - 👀 I’m interested in software engineering, cyber security and game development.
 - 🌱 I’m currently improving C/C++ and Python languages.
 - 💞️ I’m looking to collaborate on game development projects.
